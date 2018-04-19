@@ -24,7 +24,7 @@ public class MapFinder {
 		service.addAccount(account);
 		service.addAccount(account2);
 		service.addAccount(account3);
-		mapSearch = new Mapsearcher();
+		mapSearch = new MapSearcher();
 	}
 	
 	@Test
